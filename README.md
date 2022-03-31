@@ -1,24 +1,26 @@
 # vue-image-bed
 
-## Project setup
-```
-yarn install
-```
+> jsDelivr加速： https://cdn.jsdelivr.net/gh/can-dy-jack/vue-blog@master/ 前缀
 
-### Compiles and hot-reloads for development
-```
+## more
+
+> Compiles and hot-reloads for development
+
+``` bash
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
+> Compiles and minifies for production
+
+``` bash
 yarn build
 ```
 
-### Lints and fixes files
-```
+> Lints and fixes files
+
+``` bash
 yarn lint
 ```
 
-### Customize configuration
+> Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

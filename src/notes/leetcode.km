@@ -1,0 +1,15 @@
+{
+    "root": {
+        "data": {
+            "id": "cixygz1vng00",
+            "created": 1648720024462,
+            "text": "LeetCode",
+            "progress": null,
+            "priority": null
+        },
+        "children": []
+    },
+    "template": "right",
+    "theme": "classic-compact",
+    "version": "1.4.43"
+}
